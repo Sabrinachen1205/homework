@@ -1,4 +1,4 @@
-# leetcode homework total 40
+# leetcode homework total 41
 - leetcode (1.twoSum)
 - leetcode (7. Reverse Integer)
 - leetcode (9. Palindrome Number)
@@ -38,4 +38,5 @@
 - leetcode (190. Reverse Bits)
 - leetcode (191. Number of 1 Bits)
 - leetcode (202. Happy Number)
+- leetcode (205. Isomorphic Strings)
 - leetcode (404. Sum of Left Leaves)
