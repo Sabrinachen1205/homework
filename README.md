@@ -1,4 +1,4 @@
-# leetcode homework total 16
+# leetcode homework total 17
 - leetcode (1.twoSum)
 - leetcode (7. Reverse Integer)
 - leetcode (9. Palindrome Number)
@@ -14,4 +14,5 @@
 - leetcode (35. Search Insert Position)
 - leetcode (41. First Missing Positive)
 - leetcode (42. Trapping Rain Water)
+- leetcode (50. Pow(x, n))
 - leetcode (404. Sum of Left Leaves)
