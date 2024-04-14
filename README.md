@@ -1,4 +1,4 @@
-# leetcode homework total 52
+# leetcode homework total 53
 - leetcode (1.twoSum)
 - leetcode (7. Reverse Integer)
 - leetcode (9. Palindrome Number)
@@ -50,4 +50,5 @@
 - leetcode (292. Nim Game)
 - leetcode (326. Power of Three)
 - leetcode (342. Power of Four)
+- leetcode (344. Reverse String)
 - leetcode (404. Sum of Left Leaves)
