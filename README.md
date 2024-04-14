@@ -1,4 +1,4 @@
-# leetcode homework total 15
+# leetcode homework total 16
 - leetcode (1.twoSum)
 - leetcode (7. Reverse Integer)
 - leetcode (9. Palindrome Number)
@@ -13,4 +13,5 @@
 - leetcode (28. Find the Index of the First Occurrence in a String)
 - leetcode (35. Search Insert Position)
 - leetcode (41. First Missing Positive)
+- leetcode (42. Trapping Rain Water)
 - leetcode (404. Sum of Left Leaves)
