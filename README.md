@@ -1,4 +1,4 @@
-# leetcode homework total 11
+# leetcode homework total 12
 - leetcode (1.twoSum)
 - leetcode (7. Reverse Integer)
 - leetcode (9. Palindrome Number)
@@ -9,4 +9,5 @@
 - leetcode (20. Valid Parentheses)
 - leetcode (21. Merge Two Sorted Lists)
 - leetcode (26. Remove Duplicates from Sorted Array)
+- leetcode (27. Remove Element)
 - leetcode (404. Sum of Left Leaves)
