@@ -1,4 +1,4 @@
-# leetcode homework total 47
+# leetcode homework total 48
 - leetcode (1.twoSum)
 - leetcode (7. Reverse Integer)
 - leetcode (9. Palindrome Number)
@@ -45,4 +45,5 @@
 - leetcode (238. Product of Array Except Self)
 - leetcode (258. Add Digits)
 - leetcode (263. Ugly Number)
+- leetcode (268. Missing Number)
 - leetcode (404. Sum of Left Leaves)
