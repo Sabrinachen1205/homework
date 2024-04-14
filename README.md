@@ -1,4 +1,4 @@
-# leetcode homework total 37
+# leetcode homework total 38
 - leetcode (1.twoSum)
 - leetcode (7. Reverse Integer)
 - leetcode (9. Palindrome Number)
@@ -35,4 +35,5 @@
 - leetcode (171. Excel Sheet Column Number)
 - leetcode (175. Combine Two Tables)
 - leetcode (189. Rotate Array)
+- leetcode (190. Reverse Bits)
 - leetcode (404. Sum of Left Leaves)
