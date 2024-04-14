@@ -1,4 +1,4 @@
-# leetcode homework total 32
+# leetcode homework total 33
 - leetcode (1.twoSum)
 - leetcode (7. Reverse Integer)
 - leetcode (9. Palindrome Number)
@@ -30,4 +30,5 @@
 - leetcode (125. Valid Palindrome)
 - leetcode (136. Single Number)
 - leetcode (141. Linked List Cycle)
+- leetcode (143. Reorder List)
 - leetcode (404. Sum of Left Leaves)
