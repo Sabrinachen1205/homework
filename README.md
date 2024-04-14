@@ -1,4 +1,4 @@
-# leetcode homework total 6
+# leetcode homework total 7
 - leetcode (1.twoSum)
 - leetcode (7. Reverse Integer)
 - leetcode (9. Palindrome Number)
