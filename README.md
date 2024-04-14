@@ -1,4 +1,4 @@
-# leetcode homework total 48
+# leetcode homework total 49
 - leetcode (1.twoSum)
 - leetcode (7. Reverse Integer)
 - leetcode (9. Palindrome Number)
@@ -46,4 +46,5 @@
 - leetcode (258. Add Digits)
 - leetcode (263. Ugly Number)
 - leetcode (268. Missing Number)
+- leetcode (287. Find the Duplicate Number)
 - leetcode (404. Sum of Left Leaves)
