@@ -1,4 +1,4 @@
-# leetcode homework total 23
+# leetcode homework total 24
 - leetcode (1.twoSum)
 - leetcode (7. Reverse Integer)
 - leetcode (9. Palindrome Number)
@@ -21,4 +21,5 @@
 - leetcode (67. Add Binary)
 - leetcode (69. Sqrt(x))
 - leetcode (70. Climbing Stairs)
+- leetcode (79. Word Search)
 - leetcode (404. Sum of Left Leaves)
