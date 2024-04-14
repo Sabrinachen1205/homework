@@ -1,4 +1,4 @@
-# leetcode homework total 50
+# leetcode homework total 51
 - leetcode (1.twoSum)
 - leetcode (7. Reverse Integer)
 - leetcode (9. Palindrome Number)
@@ -48,4 +48,5 @@
 - leetcode (268. Missing Number)
 - leetcode (287. Find the Duplicate Number)
 - leetcode (292. Nim Game)
+- leetcode (326. Power of Three)
 - leetcode (404. Sum of Left Leaves)
