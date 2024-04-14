@@ -1,4 +1,4 @@
-# leetcode homework total 57
+# leetcode homework total 58
 - leetcode (1.twoSum)
 - leetcode (7. Reverse Integer)
 - leetcode (9. Palindrome Number)
@@ -56,3 +56,4 @@
 - leetcode (371. Sum of Two Integers)
 - leetcode (402. Remove K Digits)
 - leetcode (404. Sum of Left Leaves)
+- leetcode (405. Convert a Number to Hexadecimal)
