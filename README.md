@@ -1,4 +1,4 @@
-# leetcode homework total 26
+# leetcode homework total 27
 - leetcode (1.twoSum)
 - leetcode (7. Reverse Integer)
 - leetcode (9. Palindrome Number)
@@ -24,4 +24,5 @@
 - leetcode (79. Word Search)
 - leetcode (85. Maximal Rectangle)
 - leetcode (94. Binary Tree Inorder Traversal)
+- leetcode (96. Unique Binary Search Trees)
 - leetcode (404. Sum of Left Leaves)
