@@ -1,4 +1,4 @@
-# leetcode homework total 9
+# leetcode homework total 10
 - leetcode (1.twoSum)
 - leetcode (7. Reverse Integer)
 - leetcode (9. Palindrome Number)
@@ -7,4 +7,5 @@
 - leetcode (13. Roman to Integer)
 - leetcode (14. Longest Common Prefix)
 - leetcode (20. Valid Parentheses)
+- leetcode (21. Merge Two Sorted Lists)
 - leetcode (404. Sum of Left Leaves)
