@@ -1,4 +1,4 @@
-# leetcode homework total 12
+# leetcode homework total 13
 - leetcode (1.twoSum)
 - leetcode (7. Reverse Integer)
 - leetcode (9. Palindrome Number)
@@ -10,4 +10,5 @@
 - leetcode (21. Merge Two Sorted Lists)
 - leetcode (26. Remove Duplicates from Sorted Array)
 - leetcode (27. Remove Element)
+- leetcode (28. Find the Index of the First Occurrence in a String)
 - leetcode (404. Sum of Left Leaves)
