@@ -1,4 +1,4 @@
-# leetcode homework total 20
+# leetcode homework total 21
 - leetcode (1.twoSum)
 - leetcode (7. Reverse Integer)
 - leetcode (9. Palindrome Number)
@@ -18,4 +18,5 @@
 - leetcode (57. Insert Interval)
 - leetcode (58. Length of Last Word)
 - leetcode (66. Plus One)
+- leetcode (67. Add Binary)
 - leetcode (404. Sum of Left Leaves)
