@@ -1,4 +1,4 @@
-# leetcode homework total 54
+# leetcode homework total 55
 - leetcode (1.twoSum)
 - leetcode (7. Reverse Integer)
 - leetcode (9. Palindrome Number)
@@ -52,4 +52,5 @@
 - leetcode (342. Power of Four)
 - leetcode (344. Reverse String)
 - leetcode (349. Intersection of Two Arrays)
+- leetcode (367. Valid Perfect Square)
 - leetcode (404. Sum of Left Leaves)
