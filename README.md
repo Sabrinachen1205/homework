@@ -1,4 +1,4 @@
-# leetcode homework total 30
+# leetcode homework total 31
 - leetcode (1.twoSum)
 - leetcode (7. Reverse Integer)
 - leetcode (9. Palindrome Number)
@@ -28,4 +28,5 @@
 - leetcode (112. Path Sum)
 - leetcode (118. Pascal's Triangle)
 - leetcode (125. Valid Palindrome)
+- leetcode (136. Single Number)
 - leetcode (404. Sum of Left Leaves)
