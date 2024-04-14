@@ -1,4 +1,4 @@
-# leetcode homework total 38
+# leetcode homework total 39
 - leetcode (1.twoSum)
 - leetcode (7. Reverse Integer)
 - leetcode (9. Palindrome Number)
@@ -36,4 +36,5 @@
 - leetcode (175. Combine Two Tables)
 - leetcode (189. Rotate Array)
 - leetcode (190. Reverse Bits)
+- leetcode (191. Number of 1 Bits)
 - leetcode (404. Sum of Left Leaves)
