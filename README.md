@@ -1,4 +1,4 @@
-# leetcode homework total 44
+# leetcode homework total 45
 - leetcode (1.twoSum)
 - leetcode (7. Reverse Integer)
 - leetcode (9. Palindrome Number)
@@ -42,4 +42,5 @@
 - leetcode (206. Reverse Linked List)
 - leetcode (231. Power of Two)
 - leetcode (234. Palindrome Linked List)
+- leetcode (238. Product of Array Except Self)
 - leetcode (404. Sum of Left Leaves)
