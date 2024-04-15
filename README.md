@@ -1,4 +1,4 @@
-# leetcode homework total 65
+# leetcode homework total 66
 - leetcode (1.twoSum)
 - leetcode (7. Reverse Integer)
 - leetcode (9. Palindrome Number)
@@ -64,3 +64,4 @@
 - leetcode (442. Find All Duplicates in an Array)
 - leetcode (452. Minimum Number of Arrows to Burst Balloons)
 - leetcode (492. Construct the Rectangle)
+- leetcode (500. Keyboard Row)
