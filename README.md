@@ -1,4 +1,4 @@
-# leetcode homework total 82
+# leetcode homework total 83
 - leetcode (1.twoSum)
 - leetcode (7. Reverse Integer)
 - leetcode (9. Palindrome Number)
@@ -81,3 +81,4 @@
 - leetcode (713. Subarray Product Less Than K)
 - leetcode (728. Self Dividing Numbers)
 - leetcode (762. Prime Number of Set Bits in Binary Representation)
+- leetcode (771. Jewels and Stones)
