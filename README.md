@@ -1,4 +1,4 @@
-# leetcode homework total 88
+# leetcode homework total 89
 - leetcode (1.twoSum)
 - leetcode (7. Reverse Integer)
 - leetcode (9. Palindrome Number)
@@ -87,3 +87,4 @@
 - leetcode (804. Unique Morse Code Words)
 - leetcode (876. Middle of the Linked List)
 - leetcode (908. Smallest Range I)
+- leetcode (914. X of a Kind in a Deck of Cards)
