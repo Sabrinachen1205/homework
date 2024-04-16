@@ -1,4 +1,4 @@
-# leetcode homework total 77
+# leetcode homework total 78
 - leetcode (1.twoSum)
 - leetcode (7. Reverse Integer)
 - leetcode (9. Palindrome Number)
@@ -76,3 +76,4 @@
 - leetcode (623. Add One Row to Tree)
 - leetcode (628. Maximum Product of Three Numbers)
 - leetcode (657. Robot Return to Origin)
+- leetcode (678. Valid Parenthesis String)
