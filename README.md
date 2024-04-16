@@ -1,91 +1,101 @@
-# leetcode homework total 90
-- leetcode (1.twoSum)
-- leetcode (7. Reverse Integer)
-- leetcode (9. Palindrome Number)
-- leetcode (8. String to Integer (atoi))
-- leetcode (12. Integer to Roman)
-- leetcode (13. Roman to Integer)
-- leetcode (14. Longest Common Prefix)
-- leetcode (20. Valid Parentheses)
-- leetcode (21. Merge Two Sorted Lists)
-- leetcode (26. Remove Duplicates from Sorted Array)
-- leetcode (27. Remove Element)
-- leetcode (28. Find the Index of the First Occurrence in a String)
-- leetcode (35. Search Insert Position)
-- leetcode (41. First Missing Positive)
-- leetcode (42. Trapping Rain Water)
-- leetcode (50. Pow(x, n))
-- leetcode (57. Insert Interval)
-- leetcode (58. Length of Last Word)
-- leetcode (66. Plus One)
-- leetcode (67. Add Binary)
-- leetcode (69. Sqrt(x))
-- leetcode (70. Climbing Stairs)
-- leetcode (79. Word Search)
-- leetcode (85. Maximal Rectangle)
-- leetcode (94. Binary Tree Inorder Traversal)
-- leetcode (96. Unique Binary Search Trees)
-- leetcode (112. Path Sum)
-- leetcode (118. Pascal's Triangle)
-- leetcode (125. Valid Palindrome)
-- leetcode (129. Sum Root to Leaf Numbers)
-- leetcode (136. Single Number)
-- leetcode (141. Linked List Cycle)
-- leetcode (143. Reorder List)
-- leetcode (168. Excel Sheet Column Title)
-- leetcode (171. Excel Sheet Column Number)
-- leetcode (175. Combine Two Tables)
-- leetcode (189. Rotate Array)
-- leetcode (190. Reverse Bits)
-- leetcode (191. Number of 1 Bits)
-- leetcode (202. Happy Number)
-- leetcode (205. Isomorphic Strings)
-- leetcode (206. Reverse Linked List)
-- leetcode (231. Power of Two)
-- leetcode (234. Palindrome Linked List)
-- leetcode (238. Product of Array Except Self)
-- leetcode (258. Add Digits)
-- leetcode (263. Ugly Number)
-- leetcode (268. Missing Number)
-- leetcode (287. Find the Duplicate Number)
-- leetcode (292. Nim Game)
-- leetcode (326. Power of Three)
-- leetcode (342. Power of Four)
-- leetcode (344. Reverse String)
-- leetcode (349. Intersection of Two Arrays)
-- leetcode (367. Valid Perfect Square)
-- leetcode (371. Sum of Two Integers)
-- leetcode (402. Remove K Digits)
-- leetcode (404. Sum of Left Leaves)
-- leetcode (405. Convert a Number to Hexadecimal)
-- leetcode (412. Fizz Buzz)
-- leetcode (415. Add Strings)
-- leetcode (441. Arranging Coins)
-- leetcode (442. Find All Duplicates in an Array)
-- leetcode (452. Minimum Number of Arrows to Burst Balloons)
-- leetcode (492. Construct the Rectangle)
-- leetcode (500. Keyboard Row)
-- leetcode (504. Base 7)
-- leetcode (509. Fibonacci Number)
-- leetcode (520. Detect Capital)
-- leetcode (525. Contiguous Array)
-- leetcode (541. Reverse String II)
-- leetcode (557. Reverse Words in a String III)
-- leetcode (598. Range Addition II)
-- leetcode (621. Task Scheduler)
-- leetcode (623. Add One Row to Tree)
-- leetcode (628. Maximum Product of Three Numbers)
-- leetcode (657. Robot Return to Origin)
-- leetcode (678. Valid Parenthesis String)
-- leetcode (709. To Lower Case)
-- leetcode (713. Subarray Product Less Than K)
-- leetcode (728. Self Dividing Numbers)
-- leetcode (762. Prime Number of Set Bits in Binary Representation)
-- leetcode (771. Jewels and Stones)
-- leetcode (791. Custom Sort String)
-- leetcode (796. Rotate String)
-- leetcode (804. Unique Morse Code Words)
-- leetcode (876. Middle of the Linked List)
-- leetcode (908. Smallest Range I)
-- leetcode (914. X of a Kind in a Deck of Cards)
-- leetcode (930. Binary Subarrays With Sum)
+# leetcode homework total 100 upload 90
+- leetcode (1.twoSum) upload
+- leetcode (7. Reverse Integer) upload
+- leetcode (9. Palindrome Number) upload
+- leetcode (8. String to Integer (atoi)) upload
+- leetcode (12. Integer to Roman) upload
+- leetcode (13. Roman to Integer) upload
+- leetcode (14. Longest Common Prefix) upload
+- leetcode (20. Valid Parentheses) upload
+- leetcode (21. Merge Two Sorted Lists) upload
+- leetcode (26. Remove Duplicates from Sorted Array) upload
+- leetcode (27. Remove Element) upload
+- leetcode (28. Find the Index of the First Occurrence in a String) upload
+- leetcode (35. Search Insert Position) upload
+- leetcode (41. First Missing Positive) upload
+- leetcode (42. Trapping Rain Water) upload
+- leetcode (50. Pow(x, n)) upload
+- leetcode (57. Insert Interval) upload
+- leetcode (58. Length of Last Word) upload
+- leetcode (66. Plus One) upload
+- leetcode (67. Add Binary) upload
+- leetcode (69. Sqrt(x)) upload
+- leetcode (70. Climbing Stairs) upload
+- leetcode (79. Word Search) upload
+- leetcode (85. Maximal Rectangle) upload
+- leetcode (94. Binary Tree Inorder Traversal) upload
+- leetcode (96. Unique Binary Search Trees) upload
+- leetcode (112. Path Sum) upload
+- leetcode (118. Pascal's Triangle) upload
+- leetcode (125. Valid Palindrome) upload
+- leetcode (129. Sum Root to Leaf Numbers) upload
+- leetcode (136. Single Number) upload
+- leetcode (141. Linked List Cycle) upload
+- leetcode (143. Reorder List) upload
+- leetcode (168. Excel Sheet Column Title) upload
+- leetcode (171. Excel Sheet Column Number) upload
+- leetcode (175. Combine Two Tables) upload
+- leetcode (189. Rotate Array) upload
+- leetcode (190. Reverse Bits) upload
+- leetcode (191. Number of 1 Bits) upload
+- leetcode (202. Happy Number) upload
+- leetcode (205. Isomorphic Strings) upload
+- leetcode (206. Reverse Linked List) upload
+- leetcode (231. Power of Two) upload
+- leetcode (234. Palindrome Linked List) upload
+- leetcode (238. Product of Array Except Self) upload
+- leetcode (258. Add Digits) upload
+- leetcode (263. Ugly Number) upload
+- leetcode (268. Missing Number) upload
+- leetcode (287. Find the Duplicate Number) upload
+- leetcode (292. Nim Game) upload
+- leetcode (326. Power of Three) upload
+- leetcode (342. Power of Four) upload
+- leetcode (344. Reverse String) upload
+- leetcode (349. Intersection of Two Arrays) upload
+- leetcode (367. Valid Perfect Square) upload
+- leetcode (371. Sum of Two Integers) upload
+- leetcode (402. Remove K Digits) upload
+- leetcode (404. Sum of Left Leaves) upload
+- leetcode (405. Convert a Number to Hexadecimal) upload
+- leetcode (412. Fizz Buzz) upload
+- leetcode (415. Add Strings) upload
+- leetcode (441. Arranging Coins) upload
+- leetcode (442. Find All Duplicates in an Array) upload
+- leetcode (452. Minimum Number of Arrows to Burst Balloons) upload
+- leetcode (492. Construct the Rectangle) upload
+- leetcode (500. Keyboard Row) upload
+- leetcode (504. Base 7) upload
+- leetcode (509. Fibonacci Number) upload
+- leetcode (520. Detect Capital) upload
+- leetcode (525. Contiguous Array) upload
+- leetcode (541. Reverse String II) upload
+- leetcode (557. Reverse Words in a String III) upload
+- leetcode (598. Range Addition II) upload
+- leetcode (621. Task Scheduler) upload
+- leetcode (623. Add One Row to Tree) upload
+- leetcode (628. Maximum Product of Three Numbers) upload
+- leetcode (657. Robot Return to Origin) upload
+- leetcode (678. Valid Parenthesis String) upload
+- leetcode (709. To Lower Case) upload
+- leetcode (713. Subarray Product Less Than K) upload
+- leetcode (728. Self Dividing Numbers) upload
+- leetcode (762. Prime Number of Set Bits in Binary Representation) upload
+- leetcode (771. Jewels and Stones) upload
+- leetcode (791. Custom Sort String) upload
+- leetcode (796. Rotate String) upload
+- leetcode (804. Unique Morse Code Words) upload
+- leetcode (876. Middle of the Linked List) upload
+- leetcode (908. Smallest Range I) upload
+- leetcode (914. X of a Kind in a Deck of Cards) upload
+- leetcode (930. Binary Subarrays With Sum) upload
+- leetcode (950. Reveal Cards In Increasing Order)
+- leetcode (992. Subarrays with K Different Integers)
+- leetcode (1025. Divisor Game)
+- leetcode (1108. Defanging an IP Address)
+- leetcode (1137. N-th Tribonacci Number)
+- leetcode (1154. Day of the Year)
+- leetcode (1171. Remove Zero Sum Consecutive Nodes from Linked List)
+- leetcode (1175. Prime Arrangements)
+- leetcode (1185. Day of the Week)
+- leetcode (1221. Split a String in Balanced Strings)
