@@ -1,4 +1,4 @@
-# leetcode homework total 70
+# leetcode homework total 71
 - leetcode (1.twoSum)
 - leetcode (7. Reverse Integer)
 - leetcode (9. Palindrome Number)
@@ -69,3 +69,4 @@
 - leetcode (509. Fibonacci Number)
 - leetcode (520. Detect Capital)
 - leetcode (525. Contiguous Array)
+- leetcode (623. Add One Row to Tree)
