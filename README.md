@@ -1,4 +1,4 @@
-# leetcode homework total 73
+# leetcode homework total 74
 - leetcode (1.twoSum)
 - leetcode (7. Reverse Integer)
 - leetcode (9. Palindrome Number)
@@ -71,4 +71,5 @@
 - leetcode (525. Contiguous Array)
 - leetcode (541. Reverse String II)
 - leetcode (557. Reverse Words in a String III)
+- leetcode (598. Range Addition II)
 - leetcode (623. Add One Row to Tree)
