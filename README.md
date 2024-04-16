@@ -1,4 +1,4 @@
-# leetcode homework total 89
+# leetcode homework total 90
 - leetcode (1.twoSum)
 - leetcode (7. Reverse Integer)
 - leetcode (9. Palindrome Number)
@@ -88,3 +88,4 @@
 - leetcode (876. Middle of the Linked List)
 - leetcode (908. Smallest Range I)
 - leetcode (914. X of a Kind in a Deck of Cards)
+- leetcode (930. Binary Subarrays With Sum)
