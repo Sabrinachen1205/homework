@@ -1,4 +1,4 @@
-# leetcode homework total 83
+# leetcode homework total 84
 - leetcode (1.twoSum)
 - leetcode (7. Reverse Integer)
 - leetcode (9. Palindrome Number)
@@ -82,3 +82,4 @@
 - leetcode (728. Self Dividing Numbers)
 - leetcode (762. Prime Number of Set Bits in Binary Representation)
 - leetcode (771. Jewels and Stones)
+- leetcode (791. Custom Sort String)
