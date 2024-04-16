@@ -1,4 +1,4 @@
-# leetcode homework total 80
+# leetcode homework total 81
 - leetcode (1.twoSum)
 - leetcode (7. Reverse Integer)
 - leetcode (9. Palindrome Number)
@@ -79,3 +79,4 @@
 - leetcode (678. Valid Parenthesis String)
 - leetcode (709. To Lower Case)
 - leetcode (713. Subarray Product Less Than K)
+- leetcode (728. Self Dividing Numbers)
